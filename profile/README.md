@@ -1,8 +1,4 @@
 # Codework
-Engineering reliable software, end to end.
-
-<br>
-
 ## Overview
 Codework designs and builds software, from the first idea to the final release.
 
