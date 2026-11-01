@@ -1,4 +1,3 @@
-## Overview
 Codework designs and builds software, from the first idea to the final release.
 
 - **Desktop**: Native Windows apps built with C++ and DirectX.
